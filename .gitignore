@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+wc2026_model_state.pkl
+reports/*.png
